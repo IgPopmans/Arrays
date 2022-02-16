@@ -1,3 +1,5 @@
+package Arr;
+
 import java.util.Arrays;
 
 public class ArrayX {
