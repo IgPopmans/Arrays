@@ -7,6 +7,9 @@ public class ArrayX {
             public static void main(String[] args) {
                 int [] mas1 = new int[5];
                 int [] mas2 = new int[5];
+                Human human = new Human();
+                System.out.println(human);
+                System.out.println(human.info());
 
                 for (int i = 0; i < 5; i++) {
                     mas1[i] = (int)(Math.random()*6);
